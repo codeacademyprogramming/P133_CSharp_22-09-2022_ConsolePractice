@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P133\CourseManagement\CourseManagement\bin\Debug\netcoreapp3.1\CourseManagement.exe
+C:\Users\hamid.mammadov\Desktop\P133\CourseManagement\CourseManagement\bin\Debug\netcoreapp3.1\CourseManagement.deps.json
+C:\Users\hamid.mammadov\Desktop\P133\CourseManagement\CourseManagement\bin\Debug\netcoreapp3.1\CourseManagement.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P133\CourseManagement\CourseManagement\bin\Debug\netcoreapp3.1\CourseManagement.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P133\CourseManagement\CourseManagement\bin\Debug\netcoreapp3.1\CourseManagement.dll
+C:\Users\hamid.mammadov\Desktop\P133\CourseManagement\CourseManagement\bin\Debug\netcoreapp3.1\CourseManagement.pdb
+C:\Users\hamid.mammadov\Desktop\P133\CourseManagement\CourseManagement\obj\Debug\netcoreapp3.1\CourseManagement.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P133\CourseManagement\CourseManagement\obj\Debug\netcoreapp3.1\CourseManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P133\CourseManagement\CourseManagement\obj\Debug\netcoreapp3.1\CourseManagement.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\CourseManagement\CourseManagement\obj\Debug\netcoreapp3.1\CourseManagement.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P133\CourseManagement\CourseManagement\obj\Debug\netcoreapp3.1\CourseManagement.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\CourseManagement\CourseManagement\obj\Debug\netcoreapp3.1\CourseManagement.dll
+C:\Users\hamid.mammadov\Desktop\P133\CourseManagement\CourseManagement\obj\Debug\netcoreapp3.1\CourseManagement.pdb
+C:\Users\hamid.mammadov\Desktop\P133\CourseManagement\CourseManagement\obj\Debug\netcoreapp3.1\CourseManagement.genruntimeconfig.cache
